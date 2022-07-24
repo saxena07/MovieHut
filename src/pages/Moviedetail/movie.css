@@ -95,28 +95,28 @@
 }
 
 .movie__heading {
-    font-size: 2.2rem;
+    font-size: 2.5rem;
 }
 
 .movie__Button {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 0.8rem 2rem;
-    border-radius: 20px;
+    padding: 1rem 2rem;
+    border-radius: 10px;
     cursor: pointer;
-    width: 150px;
+    width: 200px;
     color: black;
-    font-weight: bold;
+    font-weight: bolder;
 }
 
 .movie__homeButton {
-    background-color:rgb(255, 0, 0);
+    background-color:rgb(84, 162, 229);
     
 }
 
 .movie__imdbButton {
-    background-color:#f3ce13;
+    background-color:#4ce657;
 }
 
 .newTab {
