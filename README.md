@@ -22,3 +22,4 @@ Demo Link : [-> MovieHUT React app deployed on Heroku !](https://moviehut-projec
 ![Home Page](https://raw.github.com/saxena07/MovieHut/master/moviedetail.png?raw=true)
 ![Home Page](https://raw.github.com/saxena07/MovieHut/master/moviedetail1.png?raw=true)
 
+<hr><br>
